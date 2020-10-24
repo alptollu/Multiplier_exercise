@@ -3,11 +3,11 @@
 int main() {
     int number1,i,line,number2;
     //this program writes ten numbers in every line up to limit number(number1)
-    // as folds of number2
+    // as multipliers of number2
     printf("Please write down a limit number:\n");
     scanf("%d",&number1);
 
-    printf("Please write down a number to find its folds up to the limit number:\n");
+    printf("Please write down a number to find its multipliers up to the limit number:\n");
     scanf("%d",&number2);
 
     i=0;
